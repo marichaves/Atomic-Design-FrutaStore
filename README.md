@@ -1,2 +1,2 @@
-# arquitetura-css-assets
+# Arquitetura-css-assets
  Working with Atomic Design
